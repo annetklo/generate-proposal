@@ -5,10 +5,8 @@ Generates .docx files with styled headers, bullet points, and horizontal lines.
 """
 
 import sys
-import os
 import argparse
 import re
-from datetime import datetime
 from pathlib import Path
 
 try:
