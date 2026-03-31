@@ -1,0 +1,8 @@
+{
+  "name": "generate-proposal",
+  "version": "1.0.0",
+  "description": "Convert meeting transcripts into structured, professional proposals. Outputs markdown and Word formats with optional Dutch translation.",
+  "author": "Annet Kloprogge (Mission Relearn)",
+  "license": "MIT",
+  "homepage": "https://github.com/annetklo/generate-proposal"
+}
